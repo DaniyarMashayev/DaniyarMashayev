@@ -4,10 +4,10 @@ Hi 👋 My name is Daniyar Mashayev
 Back-End Java Developer
 -----------------------
 
-I've been learning programming for about two years, first started with front-end, then taught a bit of python, now learning java*
+I've been learning programming for about two years, first started with front-end, then taught a bit of python, now learning java
 
-🌍  I'm based in Almaty, Kazakhstan*
-✉️  You can contact me at [dmashaev@gmail.com](mailto:dmashaev@gmail.com)* 
+🌍  I'm based in Almaty, Kazakhstan
+✉️  You can contact me at [dmashaev@gmail.com](mailto:dmashaev@gmail.com) 
 🧠  I'm learning Java, Linux, Git
 
 ### Skills
