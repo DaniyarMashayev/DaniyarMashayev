@@ -1,7 +1,9 @@
 Hi 👋 My name is Daniyar Mashayev
 =================================
 
-Back-End Java Developer-----------------------
+Back-End Java Developer
+-----------------------
+
 I've been learning programming for about two years, first started with front-end, then taught a bit of python, now learning java
 
 * 🌍  I'm based in Almaty, Kazakhstan
